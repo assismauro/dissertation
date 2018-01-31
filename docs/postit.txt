@@ -1,0 +1,14 @@
+Above-ground biomass estimation using airborne discrete-return and full-waveform LiDAR data in a coniferous forest
+http://www.sciencedirect.com/science/article/pii/S1470160X17301085#bib0245
+
+Transectos analisados
+T-0069: Bamboo Forest
+T-0216: cerrado/mata de galeria (*)
+T_0333: Flooded
+T-0358: floresta tropical densa fechada
+T-0410 : floresta tropical densa aberta
+
+Reunião Fernando, 19/01/2018
+
+
+

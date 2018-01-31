@@ -1,0 +1,8 @@
+Histogram classification
+http://www.tandfonline.com/doi/abs/10.1080/01431169308904296
+http://www.pedsresearch.org/uploads/pages/img/Histogram_Overlay_4.0.pdf
+https://mpatacchiola.github.io/blog/2016/11/12/the-simplest-classifier-histogram-intersection.html
+
+Random Forest Python
+http://www.blopig.com/blog/2017/07/using-random-forests-in-python-with-scikit-learn/
+
